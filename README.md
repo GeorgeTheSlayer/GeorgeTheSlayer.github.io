@@ -1,38 +1,17 @@
-### Holland Sersen - Music Technology
+# Holland Sersen - Music Technology
 
-Hello! My name is Holland Sersen and I am a audio programmer from Chiago IL.
+Hello! My name is Holland Sersen and I am a audio programmer from Chiago IL. 
 
+## Portfolio / Projects
+#### [Dsp Library](link)
+Current Github link to my custom made DSP library. Includes Google tests for some functions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### [Mix Stir Shake Multieffect](link)
+Github link to current Senoir project. all of it is subject to change
 
-### Markdown
+## Contact Information
+Phone: 224-324-6466
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Email: hsersen@colum.edu
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GeorgeTheSlayer/GeorgeTheSlayer.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Resume: [Link to Resume](https://docs.google.com/document/d/1M3atEmU0rxut2ehnzyBkxr9P4vL_cq0qHhh-Zhvbmys/edit?usp=sharing)
