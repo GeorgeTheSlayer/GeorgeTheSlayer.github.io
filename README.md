@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+### Holland Sersen - Music Technology
 
-You can use the [editor on GitHub](https://github.com/GeorgeTheSlayer/GeorgeTheSlayer.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hello! My name is Holland Sersen and I am a audio programmer from Chiago IL.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
